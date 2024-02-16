@@ -7098,7 +7098,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91771495, b: 0.5801887, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 1
   m_Range: 5
   m_SpotAngle: 76.68216
   m_InnerSpotAngle: 51.945988
@@ -11259,7 +11259,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91764706, b: 0.5803922, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 1
   m_Range: 5
   m_SpotAngle: 131.77638
   m_InnerSpotAngle: 80.05528
@@ -11624,7 +11624,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91771495, b: 0.5801887, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 4
   m_Range: 5
   m_SpotAngle: 120.746796
   m_InnerSpotAngle: 96.01061
@@ -14394,7 +14394,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91764706, b: 0.5803922, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 4
   m_Range: 50
   m_SpotAngle: 150.8907
   m_InnerSpotAngle: 80.05528
@@ -31690,7 +31690,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91764706, b: 0.5803922, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 2
   m_Range: 5
   m_SpotAngle: 120.746796
   m_InnerSpotAngle: 96.01061
@@ -34732,6 +34732,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
+      propertyPath: m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
+        type: 3}
       propertyPath: m_Range
       value: 5
       objectReference: {fileID: 0}
@@ -34948,7 +34953,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91771495, b: 0.5801887, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 0.7
   m_Range: 3
   m_SpotAngle: 59.816586
   m_InnerSpotAngle: 59.816586
@@ -55527,7 +55532,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91771495, b: 0.5801887, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 3
   m_Range: 5
   m_SpotAngle: 83.96984
   m_InnerSpotAngle: 65.65258
