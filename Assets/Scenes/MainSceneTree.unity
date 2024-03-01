@@ -4966,6 +4966,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 7586635753287806754, guid: b0406aad81c41cf429dd9a1a19a09f03,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8728861425996988568, guid: b0406aad81c41cf429dd9a1a19a09f03,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13022,7 +13027,7 @@ Light:
     m_CustomResolution: -1
     m_Strength: 0.8
     m_Bias: 0.05
-    m_NormalBias: 0.4
+    m_NormalBias: 0
     m_NearPlane: 0.2
     m_CullingMatrixOverride:
       e00: 1
@@ -13050,7 +13055,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -34153,6 +34158,11 @@ PrefabInstance:
     - target: {fileID: 1744216113458537633, guid: b97a7dd065d92f14b98aeec214a4e8e4,
         type: 3}
       propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744216113458537633, guid: b97a7dd065d92f14b98aeec214a4e8e4,
+        type: 3}
+      propertyPath: m_IgnoreNormalsForChartDetection
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3586516981720374800, guid: b97a7dd065d92f14b98aeec214a4e8e4,
@@ -62579,6 +62589,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198470243195461417, guid: b52c0e6d52e4b2a479a5bc7fc2a9cdeb,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4198470243195461417, guid: b52c0e6d52e4b2a479a5bc7fc2a9cdeb,
         type: 3}
